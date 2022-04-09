@@ -1,2 +1,2 @@
 functions which are used:
-HTML Css
+HTML Java-script and angular.
